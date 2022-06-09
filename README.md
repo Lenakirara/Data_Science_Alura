@@ -2,7 +2,17 @@
 
 1. Começando com Data Science:<br>
 1.1. Data Science: análise e visualição de dados<br>
+- Explorar dados com exploratory data analysis
+- Ver os tipos de variáveis
+- Usar histogramas e boxplots
+- Utilizar medidas de resumo
+- Explorar dados em Python com Pandas, Matplotlib e Seaborn
 1.2. Python Pandas: tratando e analisando dados<br>
+- Importar dados e exportar dataframes
+- Limpar e tratar dados faltantes
+- Remover outliers e criar novas variáveis
+- Selecionar e gerar frequências dos dados
+- Usar Python Pandas, Matplotlib, Jupyter e Anaconda
 1.3. Estatítísca com Python parte 1: frequência e medidas<br>
 1.4. Estatística com Python parte 2: probabilidade e amostragem
 
