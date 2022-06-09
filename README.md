@@ -1,33 +1,33 @@
 # Formação Data Science Alura
 
-1. Começando com Data Science:<br>
-1.1. Data Science: análise e visualição de dados<br>
-- Explorar dados com exploratory data analysis
-- Ver os tipos de variáveis
-- Usar histogramas e boxplots
-- Utilizar medidas de resumo
-- Explorar dados em Python com Pandas, Matplotlib e Seaborn<br>
-1.2. Python Pandas: tratando e analisando dados<br>
-- Importar dados e exportar dataframes
-- Limpar e tratar dados faltantes
-- Remover outliers e criar novas variáveis
-- Selecionar e gerar frequências dos dados
-- Usar Python Pandas, Matplotlib, Jupyter e Anaconda<br>
-1.3. Estatítísca com Python parte 1: frequência e medidas<br>
-1.4. Estatística com Python parte 2: probabilidade e amostragem
+## Começando com Data Science<br>
+1. Data Science: análise e visualição de dados:<br>
+Usamos a base de dados sobre notas de filmes do GroupLens (MovieLens) e um do TMDb (The Movie Database), para entender a distribuição dessas notas por meio de:
+    - Exploração de dados com exploratory data analysis
+    - Histogramas e boxplots
+    - Utilização de medidas de resumo
+    - Exploração desses dados em Python com Pandas, Matplotlib e Seaborn<br><br>
+2. Python Pandas: tratando e analisando dados:<br>
+Foi desenvolvido um projeto em que utilizamos a base de dados fornecida pela Alura referente aos alugueis de imóveis do Rio de Janeiro e colocamos em prática:
+    - Importação de dados e exportação de dataframes
+    - Limpaza e tratamento de dados faltantes
+    - Removeção de outliers e criação de novas colunas
+    - Usamos Python Pandas, Matplotlib<br><br>   
+3. Estatítísca com Python parte 1: frequência e medidas<br>
+4. Estatística com Python parte 2: probabilidade e amostragem
 
-2. Modelos de Data Science:<br>
-2.1. Regressão Linear: testando relações e prevendo resultados<br>
-2.2. Regressão Linear: técnicas avançadas de modelagem
+## Modelos de Data Science<br>
+1. Regressão Linear: testando relações e prevendo resultados<br>
+2. Regressão Linear: técnicas avançadas de modelagem
 
-3. Visualização de dados:<br>
-3.1. Data Visualization: técnicas de visualização com Google Sheets<br>
-3.2. Data Visualization: criação de gráficos com Matplotlib
+## Visualização de dados<br>
+1. Data Visualization: técnicas de visualização com Google Sheets<br>
+2. Data Visualization: criação de gráficos com Matplotlib
 
-4. Testes com Data Science:<br>
-4.1. Data Science: testes estatísticos com Python<br>
-4.2. Análise de experimentos: testes, mapas de cores e análise dos dados
+## Testes com Data Science<br>
+1. Data Science: testes estatísticos com Python<br>
+2. Análise de experimentos: testes, mapas de cores e análise dos dados
 
-5. Aplicando Data Science:<br>
-5.1. Data Science: análise para saúde e medicina<br>
-5.2. Data Science: visualização de dados para saúde e medicina
+## Aplicando Data Science<br>
+1. Data Science: análise para saúde e medicina<br>
+2. Data Science: visualização de dados para saúde e medicina
