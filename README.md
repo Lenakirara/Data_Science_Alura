@@ -6,13 +6,13 @@
 - Ver os tipos de variáveis
 - Usar histogramas e boxplots
 - Utilizar medidas de resumo
-- Explorar dados em Python com Pandas, Matplotlib e Seaborn
+- Explorar dados em Python com Pandas, Matplotlib e Seaborn<br>
 1.2. Python Pandas: tratando e analisando dados<br>
 - Importar dados e exportar dataframes
 - Limpar e tratar dados faltantes
 - Remover outliers e criar novas variáveis
 - Selecionar e gerar frequências dos dados
-- Usar Python Pandas, Matplotlib, Jupyter e Anaconda
+- Usar Python Pandas, Matplotlib, Jupyter e Anaconda<br>
 1.3. Estatítísca com Python parte 1: frequência e medidas<br>
 1.4. Estatística com Python parte 2: probabilidade e amostragem
 
