@@ -2,13 +2,13 @@
 
 ## Começando com Data Science<br>
 1. Data Science: análise e visualição de dados:<br>
-Usamos a base de dados sobre notas de filmes do GroupLens (MovieLens) e um do TMDb (The Movie Database), para entender a distribuição dessas notas por meio de:
+Usamos a base de dados sobre notas de filmes do GroupLens (MovieLens) e um do TMDb (The Movie Database), para entender a distribuição dessas notas por meio de: [Projeto - Notas de Filmes](https://github.com/Lenakirara/Data_Science_Alura/blob/main/notas_gerais_de_filmes.ipynb)
     - Exploração de dados com exploratory data analysis
     - Histogramas e boxplots
     - Utilização de medidas de resumo
     - Exploração desses dados em Python com Pandas, Matplotlib e Seaborn<br><br>
 2. Python Pandas: tratando e analisando dados:<br>
-Foi desenvolvido um projeto em que utilizamos a base de dados fornecida pela Alura referente aos alugueis de imóveis do Rio de Janeiro e colocamos em prática:
+Foi desenvolvido um projeto em que utilizamos a base de dados fornecida pela Alura referente aos alugueis de imóveis do Rio de Janeiro e colocamos em prática: [Projeto - Dados de Aluguel de Imóveis](https://github.com/Lenakirara/Data_Science_Alura/blob/main/dados_aluguel_imovel_rj.ipynb)
     - Importação de dados e exportação de dataframes
     - Limpaza e tratamento de dados faltantes
     - Removeção de outliers e criação de novas colunas
