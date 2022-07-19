@@ -3,6 +3,7 @@
 ## Conceitos Iniciais
 1. Python: Começando com a linguagem:<br>
   Implementamos um jogo de adivinhação, onde o computador irá escolher um número e o usuário precisará adivinhá-lo. Nesse projeto colocamos em prática:
+  [Projeto - Guessing Game](https://github.com/Lenakirara/Formacao_Data_Science_Alura/tree/main/python_parte_01)
     - Python 3
     - Lógicas condicionais
     - Uso de loops
