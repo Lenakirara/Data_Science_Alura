@@ -10,6 +10,7 @@
 
 2. Python: Avançando na linguagem:<br>
   Implementamos o jogo da forca, em que usuário deverá adivinhar uma palavra secreta. Colocamos em prática:
+  [Projeto - Hangman](https://github.com/Lenakirara/Formacao_Data_Science_Alura/tree/main/python_parte_02)
     - Aprofundando na linguagem python
     - Organização do código por meio de funções
     - Lidando com diferentes estruturas de dados
